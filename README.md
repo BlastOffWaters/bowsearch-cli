@@ -13,13 +13,17 @@ After you enter your search, your default web browser will open with a tab for e
 
 # Supported Search Engines
 This tool comes with these search engines:
-\n
-Google \n
-Bing \n
+
+Google
+
+Bing
+
 DuckDuckGo
-\n
+
 Also, you can enable these additional search engines:
-\n
-Whoogle - A privacy-respecting alternative to Google. \n
-Brave Search - Similar to Whoogle. \n
+
+Whoogle - A privacy-respecting alternative to Google.
+
+Brave Search - Similar to Whoogle.
+
 Search Encrypt - Encrypts searches locally.
