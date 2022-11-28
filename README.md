@@ -1,6 +1,5 @@
 # bowsearch
 A Python tool that gets results from multiple search engines.
-Info: It will open the searches in your default web browser.
 
 # Setup
 Make sure you have a device with Python installed. 
