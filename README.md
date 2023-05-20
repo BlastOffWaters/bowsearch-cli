@@ -1,6 +1,6 @@
+## NOTE: This program is not being developed anymore! Check out [BowSearch GUI](https://github.com/bowcodes/bowsearch-gui), as that is being continued.
 # bowsearch-cli
 A Python command-line tool that gets results from multiple search engines.
-
 # Setup
 Make sure you have a device with Python installed. 
 This can be Windows, MacOS, or Linux.
